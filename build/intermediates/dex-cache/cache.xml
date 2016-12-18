@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/pre-dexed/debug/classes-efbf41ff77f291ef0d731913047cf7a84efcaa10.jar" />
+    </item>
+    <item
+        jar="/Users/kevinkahal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-43081907cbdde82cc953ea8cb4bb58e451c7ff0c.jar" />
+    </item>
+    <item
+        jar="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/pre-dexed/debug/classes-35a17b553fb1b1023079e516b9401485b8fc5b30.jar" />
+    </item>
+    <item
+        jar="/Users/kevinkahal/Projects/kamus alay/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/kevinkahal/Projects/kamus alay/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-47d90d5ff351d4673e2556832715b0f8ae468f0a.jar" />
+    </item>
+    <item
+        jar="/Users/kevinkahal/Projects/kamus alay/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/kevinkahal/Projects/kamus alay/app/build/intermediates/pre-dexed/debug/classes-9d0e7bdaf3d769a4a7f086f8f5518b73b2ed534c.jar" />
+    </item>
+    <item
+        jar="/Users/kevinkahal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/kevinkahal/Projects/kamus alay/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-31718ebf3fa79e482b0485c01767bef3e53e8b29.jar" />
+    </item>
+    <item
+        jar="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/pre-dexed/debug/classes-37e6bf940624cc131887f7f38e354cd9abcee2af.jar" />
+    </item>
+    <item
+        jar="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/pre-dexed/debug/classes-81432bd1fd14f4125ffc7db408d1226f64609512.jar" />
+    </item>
+    <item
+        jar="/Users/kevinkahal/Projects/kamus alay/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/kevinkahal/Projects/kamus alay/app/build/intermediates/pre-dexed/debug/classes-34a143fc6a853953a556c008098682f8d8b32fbb.jar" />
+    </item>
+    <item
+        jar="/Users/kevinkahal/Projects/kamus alay/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/kevinkahal/Projects/kamus alay/app/build/intermediates/pre-dexed/debug/classes-6428fd0399c4dca52e5a67c9ea834bf21f0be1ec.jar" />
+    </item>
+    <item
+        jar="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-03b6152d3898a5a6336fcfdd3bd50fb72b320e9e.jar" />
+    </item>
+    <item
+        jar="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/pre-dexed/debug/classes-ae2baf27f9cf708d6906338282155ba6c0f65513.jar" />
+    </item>
+    <item
+        jar="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/pre-dexed/debug/classes-891f1d41a6f56c5df08520f3be02836c487140fd.jar" />
+    </item>
+    <item
+        jar="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/pre-dexed/debug/classes-d132ac2e8fa779cd53cabf63273225c6da9871fc.jar" />
+    </item>
+    <item
+        jar="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/pre-dexed/debug/classes-817d9b30f63d104cf9efe15f6d594f5c24daedd4.jar" />
+    </item>
+    <item
+        jar="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/kevinkahal/Projects/kamus alay backup/app/build/intermediates/pre-dexed/debug/classes-3b60c70b28ebaad782bde1db287f68c2a2c27ffb.jar" />
+    </item>
+
+</items>
